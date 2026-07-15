@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I am **Kajal Choudhary** <br>🔭 I’m currently working on MERN and SwiftUI apps<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Rust<br>💬 Ask me anything that a Bibliophile wants to be asked<br>⚡ Fun fact - recently Capybara has become my favorite animal
+👋 Hi, I am **Kajal Choudhary** <br>🔭 I’m currently working as a Full Stack Software Developer<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Rust<br>💬 Ask me anything that a Bibliophile wants to be asked<br>⚡ Fun fact - recently Capybara has become my favorite animal
 
 
 ## 🌐 Socials:
